@@ -47,7 +47,7 @@ python3 -m venv venv
 
 #### En sistemas Windows:
 ```bash
-venv\Scripts\activate
+venv\Scripts\activtea
 ```
 
 #### En sistemas MacOS/Linux:
